@@ -1,0 +1,469 @@
+dataElement,name,shortName,code,valueType
+G4RtAu7nQUv,AST13: Avez-vous souffert d'asthme dans l'enfance ?,AsthmeEnfance,NA,TEXT
+sVXTSqJiK8y,AST14: Jusqu'à quel âge les symptômes se sont estompés ?,AgeSymptomesEstompes,NA,NUMBER
+PELKS1n4lPS,AST15: Délai asthme (en années),DelaiAsthme,NA,NUMBER
+Oq7OBByWKC8,AST16: Avez-vous déjà été hospitalisé pour asthme ?,HospitalisationAsthme,NA,TEXT
+psHohhcuj10,AST17: Nombre d'hospitalisations,NbHospitalisations,NA,NUMBER
+PGrmk7Te207,AST18: Délai de la dernière hospitalisation,DelaiDerniereHospit,NA,NUMBER
+dM9qr8lcIac,AST19: Traitement de fond ?,TraitementFond,NA,TEXT
+PRqaiyHi4JP,AST20: Quel traitement de fond ?,TypeTraitementdeFond,NA,TEXT
+I5KWvr214bt,AST21: Avez-vous consulté votre pneumologue ces 12 derniers mois ?,ConsultationPneumo12Mois,NA,TEXT
+XwZ9XtWuqi6,AST22: Délai depuis la dernière consultation (en mois),DelaiDerniereConsultation,NA,NUMBER
+H5LX5EfNHQf,AST24: Facteurs déclenchant la crise,FacteursDeclencheurs,NA,LONG_TEXT
+w7n8sAPpDR1,AST25: Rhinite allergique ?,RhiniteAllergique,NA,TEXT
+DIBgoFYZYcF,AST26: Sinusite allergique ?,SinusiteAllergique,NA,TEXT
+wEXQUIc6SIl,AST27: Conjonctivite allergique ?,ConjonctiviteAllergique,NA,TEXT
+ESv2MuZljKf,AST28: Dermatite atopique ?,DermatiteAtopique,NA,TEXT
+aOMcSrIK6y9,AST29: Autres pathologies allergiques,AutresPathologiesAllergiques,NA,LONG_TEXT
+b7UD8sgpMYo,AST31: RGO ?,RGO,NA,TEXT
+L5qyrFqDqzL,AST33: Diabète ?,Diabete,NA,TEXT
+AFdqgYPl4OG,AST36: Nombre de PA,NombrePA,NA,NUMBER
+bkQ62sIYj2R,AST38: Index alcoolique,IndexAlcoolique,NA,NUMBER
+MbrXHKVCft3,AST39: Chat à la maison ?,ChatMaison,NA,TEXT
+VB0YBPmN4Q5,AST40: Chien à la maison ?,ChienMaison,NA,TEXT
+bcBhuGKEqmF,AST41: Oiseaux ?,Oiseaux,NA,TEXT
+UgC2749tbxz,AST42: Moisissures ?,Moisissures,NA,TEXT
+GBvmpFBGVwP,AST44: Événement stressant ce dernier mois ?,EvenementStressant,NA,TEXT
+FWnO6Q7gYQl,AST46: Jours sans traitement de fond (3 derniers mois),JoursSansTraitement,NA,NUMBER
+oCm4fghamxl,AST48: Oubliez-vous parfois votre traitement de fond ?,OublieTraitement,NA,TEXT
+SiRIGlm5fH6,AST49: Avez-vous déjà arrêté votre traitement sans informer votre médecin ?,ArretTraitementSansInfo,NA,TEXT
+GAWhcjo9AFs,"AST50: Lorsque vous vous sentez mieux, arrêtez-vous parfois votre traitement ?",ArretTraitementQuandMieux,NA,TEXT
+at9h9IXI48X,AST55: Autres antécédents familiaux,AutresAntecedentsFamiliaux,NA,TEXT
+ATkRW57WU19,AST56: Symptômes diurnes plus de 2 fois par semaine (4 dernières semaines) ?,SymptomesDiurnes,NA,TEXT
+vrsDal3bR7L,AST57: Réveil nocturne dû à l'asthme (4 dernières semaines) ?,ReveilNocturneAsthme,NA,TEXT
+Y9QpP3W8Lrp,AST58: Utilisation de l'inhalateur de secours (>2 fois/semaine) ?,UtilisationInhalateur,NA,TEXT
+jMr6xNhk58P,AST59: Limitation des activités en raison de l'asthme ?,LimitationActivitesAsthme,NA,TEXT
+QkYsk1g9ZL2,AST60: DEP (L/min),DEP,NA,NUMBER
+XRy2zNptUWP,AST61: DEP en pourcentage,DEPPourcentage,NA,NUMBER
+KPlUn8EK1VW,AST63: Radio du thorax (Date),RadioThoraxDate,NA,DATE
+p4LJqmntLMI,AST64: NFS réalisée ?,NFSRealisee,NA,TEXT
+pIfKP8Bwb4s,AST65: Prick test,PrickTest,NA,TEXT
+Vrmty68TbB7,AST67: Traitement actuel,TraitementActuel,NA,TEXT
+X2ATt3OTcwJ,HEM001:Noms et Prénoms,NomPrenom,Q1,TEXT
+zzTcOkyZM27,HEM002:Date de naissance,DateNaissance,Q2,DATE
+sxj077QXNeB,HEM004:Profession,Profession,Q4,TEXT
+PtBRH9EQ2of,HEM005:Adresse et Tél,AdresseTel,Q5,TEXT
+ZzL4vakIWCY,HEM006:Situation familiale,SituationFamiliale,Q6,TEXT
+lsls9Dc1O9n,HEM007:Religion,Religion,Q7,TEXT
+mwodOeIZRmj,HEM008:Date de la 1ère consultation,DateConsultation,Q8,DATE
+OFO8wU3In1R,HEM009:Médecin traitant,MedecinTraitant,Q9,TEXT
+gE9JwMowFYF,HEM011: Avez-vous un diabète sucré ?,DiabeteSucre,001,TEXT
+IkM1E2jhYzx,HEM011:Depuis combien de temps (diabète) ?,TempsDiabete,NA,NUMBER
+oKBF6EhqCBW,HEM011:Êtes-vous suivi pour cela (diabète) ?,SuiviDiabete,NA,TEXT
+zpWjEoaEjiW,HEM012:Suivi régulier (diabète) ?,SuiviRegulierDiabete,NA,TEXT
+nEz9jDYHDQy,HEM013:Avez-vous une HTA ?,HTA,NA,TEXT
+n1heWH4ZGoh,HEM013:Depuis combien de temps (HTA) ?,TempsHTA,NA,NUMBER
+GrlB0jgCKTe,HEM013:Êtes-vous suivi pour cela (HTA) ?,SuiviHTA,NA,TEXT
+PsEIakyzFIJ,HEM013:Suivi régulier (HTA) ?,SuiviRegulierHTA,NA,TEXT
+BaRYZLeaEX0,HEM014:Avez-vous une goutte ?,Goutte,NA,TEXT
+GVBF0Z2gwMr,HEM014:Depuis combien de temps (goutte) ?,TempsGoutte,NA,NUMBER
+PD1B76OTE8t,HEM014:Êtes-vous suivi pour cela (goutte) ?,SuiviGoutte,NA,TEXT
+kIjOYhM5qe0,HEM014:Suivi régulier (goutte) ?,SuiviRegulierGoutte,NA,TEXT
+MHA2iz3z7VF,HEM015:Avez-vous des antécédents uro-néphrologiques ?,AntecedentsUroNephro,NA,TEXT
+D6SBHDIN3iF,HEM015:Lithiases rénales ?,LithiasesRenales,NA,TEXT
+HGxPKWjvAIn,HEM015:Troubles prostatiques ?,TroublesProstatiques,NA,TEXT
+dM0SgZLjQae,HEM016:Avez-vous une insuffisance rénale chronique ?,IRC,NA,TEXT
+YUX1jZeSfJa,HEM016:Depuis combien de temps (IRC) ?,TempsIRC,NA,NUMBER
+iXV8xTc7Spx,HEM016:Êtes-vous suivi pour cela (IRC) ?,SuiviIRC,NA,TEXT
+dqu011ApPqE,HEM016:Suivi régulier (IRC) ?,SuiviRegulierIRC,NA,TEXT
+J9BzwmDZAMH,HEM017:Depuis quand (ARV) ?,TempsARV,NA,NUMBER
+uy1HJoe6MAb,HEM017:Suivez-vous un traitement ARV ?,ARV,NA,TEXT
+P2ikjvqKF8d,HEM017:Suivi régulier (ARV) ?,SuiviRegulierARV,NA,TEXT
+UaB2N0kMKU6,HEM018:Autres,Autres,Q18,TEXT
+KPtw104x8ka,HEM018:Consommez-vous de l’alcool ?,ConsommationAlcool,NA,TEXT
+LMuCN0nn7EC,HEM018:Êtes-vous sédentaire ?,Sedentaire,NA,TEXT
+OIIQ0YwPsxR,HEM018:Fumez-vous ?,FumezVous,NA,TEXT
+zQzh0dlsFg6,HEM023:Depuis quand (en année) ?,ARVDuree,Q23,TEXT
+ENGATME6ZOA,HEM025:Taux de CD4 actuel ?,TauxCD4,Q25,TEXT
+T2UPE4roq9x,HEM026:Type d’ARV utilisé :,TypeARV,Q26,TEXT
+xtPQ0XYYYc0,HEM027:Avez-vous eu des antécédents d’éclampsie ?,Eclampsie,Q27,TEXT
+v4c4DOpydMc,HEM028:Prenez-vous des AINS (anti-inflammatoires non stéroïdiens) sur le long terme ?,AINS,Q28,TEXT
+oaovRuT7Mq3,"HEM029:Si oui, pour quelle raison (préciser) ?",AINSRaison,Q29,TEXT
+KgVtavWmCkM,HEM030:Consommez-vous des potions traditionnelles au long cours ?,PotionTraditionnelle,Q30,TEXT
+MVjDPkMsyG8,"HEM031:Si oui, pour quelle raison (préciser) ?",RaisonPotionTrad,Q31,TEXT
+LGit1ajMoZV,HEM032:Type? (préciser),TypePotionTrad,Q32,TEXT
+qK3d9YAxQq3,"HEM033:Utilisez-vous des compléments alimentaires (e.g. forever, tian chi) ?",ComplementAlim,Q33,TEXT
+IGQaNMstweI,"HEM034:Si oui, précisez :",DetailComplement,Q34,TEXT
+fm8spIc57Ro,HEM035:Prenez-vous d’autres médicaments en automédication au long cours ?,Automedication,Q35,TEXT
+xQmKhJhd3L4,"HEM036:Si oui, précisez :",DetailAutomedication,Q36,TEXT
+DH0031fxKk0,HEM037:Coeur - HVG (hypertrophie ventriculaire gauche),HVG,Q37,TEXT
+L7whR7Cn50P,HEM038:Coeur - ICC,ICC,Q38,TEXT
+IP89vYk5uh4,HEM039:Coeur - Autre (préciser),AutreCoeur,Q39,TEXT
+KPuZHhWvbf6,HEM040:Rétinopathie ?,Retinopathie,Q40,TEXT
+P0tMofBy2GY,"HEM041:Cause (HTA, diabète, mixte) ?",CauseRetinopathie,Q41,TEXT
+NYrGziYGxjS,HEM042:Neuropathie diabétique ?,Neuropathie,Q42,TEXT
+Qs5shxuuGcP,HEM043:Ressentez-vous des symptômes tels que l’asthénie sexuelle ou autres ?,SymptomesSexuels,Q43,TEXT
+JBCwIvOa1O0,HEM044:AVC (accident vasculaire cérébral),AVC,Q44,TEXT
+TFzjBze9Gzu,HEM045:Si oui : types ?,TypeAVC,Q45,TEXT
+iSQAJFgNc1T,HEM046:Autres,AutresDetails,Q46,TEXT
+aVdo7L8jtVW,HEM047:Votre famille a-t-elle des antécédents d’HTA ?,AntecedentsHTAFam,Q47,TEXT
+IeUGtj6tzgo,HEM048:Votre famille a-t-elle des antécédents de diabète ?,AntecedentsDiabeteFam,Q48,TEXT
+iGFmVrdiyIx,HEM049:Votre famille a-t-elle des antécédents d’insuffisance rénale chronique ?,AntecedentsIRC,Q49,TEXT
+JcxubpdJsoK,HEM050:Quels sont les médicaments que vous prenez actuellement ?,MedicamentsActuels,Q50,TEXT
+FOH40SnnmD2,HEM051:Pouvez-vous décrire vos symptômes actuels ?,SymptomesActuels,Q51,TEXT
+B5qP9ZRJnV1,HEM052:Asthénie ?,Asthenie,Q52,TEXT
+N6iIX92z32m,HEM053:Anorexie ?,Anorexie,Q53,TEXT
+IHhKuk87N3t,HEM054:Nausées ?,Nausees,Q54,TEXT
+Tz9gYdFMJEd,HEM055:Vomissements ?,Vomissements,Q55,TEXT
+oDYhIjTm1rH,HEM056:Hoquet ?,Hoquet,Q56,TEXT
+HPhdOIvFk9A,HEM057:Crampes ?,Crampes,Q57,TEXT
+WUaLhpeq65I,HEM058:Œdèmes des membres inférieurs (OMI) ?,OMI,Q58,TEXT
+H4T6AjPAOrJ,HEM059:Dyspnée ?,Dyspnee,Q59,TEXT
+LoyBZOcstZp,HEM060:Orthopnée ?,Orthopnee,Q60,TEXT
+kbVkHbGbiRY,HEM061:Nycturie ?,Nycturie,Q61,TEXT
+CralpLE1RjT,HEM062:Insomnie ?,Insomnie,Q62,TEXT
+ewRK8scI87q,HEM063:Somnolence diurne ?,SomnolenceDiurne,Q63,TEXT
+RSEXu9yWoOw,HEM064:Confusion ?,Confusion,Q64,TEXT
+l5qHAv5jsqD,HEM065:Convulsions ?,Convulsions,Q65,TEXT
+N5HneqE4KeS,HEM066:Anurie ?,Anurie,Q66,TEXT
+MTsFMcJd12p,HEM067:Oligurie ?,Oligurie,Q67,TEXT
+mCv9bF3JzYc,HEM068:Prurit ?,Prurit,Q68,TEXT
+ndOUQwcW6bv,HEM069:Autres (préciser) ?,AutresSymptomes,Q69,TEXT
+ALoHOlIVRcG,HEM070:Taille,Taille,Q70,NUMBER
+wPloVoJfinQ,HEM071:Poids,Poids,Q71,NUMBER
+CQ4uRlJqTY9,HEM072:TA (Tension Artérielle),TA,Q72,TEXT
+QUylu9itD3e,HEM073:État général,EtatGeneral,Q73,TEXT
+guL77YIasUC,HEM074:Peau et téguments,PeauTeguments,Q74,TEXT
+ut2LH14mk9C,HEM075:Examen cardiovasculaire,ExamenCardio,Q75,TEXT
+UbrBhapx5Kx,HEM076:Système respiratoire,SystemeResp,Q76,TEXT
+Sew7VW4OFx6,HEM077:Système digestif,SystemeDig,Q77,TEXT
+v4GNyMStZ37,HEM078:Système locomoteur,SystemeLocomoteur,Q78,TEXT
+IoXjjFEdPhR,HEM079:Autres (préciser),AutresExamen,Q79,TEXT
+cBrFbQYt4Eq,HEM080:BU - Protéines,BUProteines,Q80,TEXT
+Yz4I2XWKTf9,HEM081:BU - Glucose,BUGlucose,Q81,TEXT
+OSkOIloeYLs,HEM082:BU - Hb,BUHb,Q82,TEXT
+UvEyCVaSesZ,HEM083:BU - GR,BUGR,Q83,TEXT
+NFVnfteRc2D,HEM084:BU - Urobilinogène,BUUrobilinogene,Q84,TEXT
+O5MnLVOladB,HEM085:BU - PH,BUPH,Q85,TEXT
+z2hgbMXbYDo,HEM086:BU - Densité,BUDensite,Q86,TEXT
+mF1s5QKxbKj,HEM087:BU - Nitrites,BUNitrites,Q87,TEXT
+eumqWtTz9fJ,HEM088:BU - Leucocytes,BULeucocytes,Q88,TEXT
+OHQc8zlK2qp,HEM089:Diagnostic de travail,DiagnosticTravail,Q89,TEXT
+jSUmtudq9E8,HEM090:Urée,Uree,Q90,NUMBER
+L0ACXGlNZPE,HEM091:Créatinine,Creatinine,Q91,NUMBER
+i28DOzS8gXw,HEM092:Sodium (Na+),Sodium,Q92,NUMBER
+hnoO70j5h6v,HEM093:Potassium (K+),Potassium,Q93,NUMBER
+X0Ky9BMGWDj,HEM094:Chlore (Cl-),Chlore,Q94,NUMBER
+ECmyriTIrAM,HEM095:HB,HB,Q95,NUMBER
+KRFanBGsD0z,HEM096:VGM,VGM,Q96,NUMBER
+mu4zPfjEl4U,HEM097:TCMH,TCMH,Q97,NUMBER
+UswH5jpsabW,HEM098:Leucocytes,Leucocytes,Q98,NUMBER
+CK0T5jQoZ4c,HEM099:Plaquettes,Plaquettes,Q99,NUMBER
+ZVMJ20BNunq,HEM124:Échographie cardiaque - HVG,EchoCardHVG,QHem124,TEXT
+vQ1QqzIJkgg,HEM136:Traitement proposé - 4,TraitementPropose4,Q136,TEXT
+QnSfsJVXwPO,HEM137:Indication à la dialyse,IndicationDialyse,QHem137,TEXT
+Una6UnFYcaz,HEM138:Date initiation dialyse,DateDialyse,QHem138,DATE
+FhlotTU1HSc,HEM139:Voie d’abord initiale,VoieAbord,Q139,TEXT
+XiX1WiIKSl3,HEM144:Infirmier (Branchement),InfBranchement,Q144,TEXT
+ULae6iDhID4,HEM145:Poids Sec,PoidsSec,QHem145,NUMBER
+bzJG5GpUtrd,HEM146:Poids d'entrée,PoidsEntree,QHem146,NUMBER
+KztygqiSWdM,HEM147:Poids de sortie,PoidsSortie,QHem147,NUMBER
+OcNRMpO45z8,HEM148:Durée de la séance,DureeSeance,QHem148,TEXT
+T0zXGp4VOkc,HEM149:Héparinization,Heparinization,QHem149,TEXT
+Fck4p6JWiqi,HEM150:Ultrafiltration totale,Ultrafiltration,Q150,NUMBER
+jpwDTxNZnIW,HEM151:Vitesse de la pompe à sang,PompeVitesse,QHem151,NUMBER
+VnGxxpj1EXk,HEM152:Pression artérielle (PA),PressionArt,QHem152,TEXT
+rhnPswA9In0,HEM152:Pression artérielle (PA) (H1),PressionArt_H1,QHEM152_H1,TEXT
+oVVsSGcxnYe,HEM152:Pression artérielle (PA) (H2),PressionArt_H2,QHEM152_H2,TEXT
+nK3QF9d4Bqk,HEM152:Pression artérielle (PA) (H3),PressionArt_H3,QHEM152_H3,TEXT
+ZAgVXEgbsEp,HEM152:Pression artérielle (PA) (H4),PressionArt_H4,QHEM152_H4,TEXT
+OHmST1kRzo4,HEM152:Pression artérielle (PA) (T0),PressionArt_T0,QHEM152_T0,TEXT
+rlTKkzjqcq3,HEM153:Pression veineuse,PressionVein,QHem153,TEXT
+HHVNmaYpZM2,HEM153:Pression veineuse (H1),PressionVein_H1,QHEM153_H1,TEXT
+DmTAB0Yexhx,HEM153:Pression veineuse (H2),PressionVein_H2,QHEM153_H2,TEXT
+ID2wQizRI62,HEM153:Pression veineuse (H3),PressionVein_H3,QHEM153_H3,TEXT
+XmFJEIgbwf2,HEM153:Pression veineuse (H4),PressionVein_H4,QHEM153_H4,TEXT
+xFm700YMZmk,HEM153:Pression veineuse (T0),PressionVein_T0,QHEM153_T0,TEXT
+bMDIfMA2ZPV,HEM154:Pression transmembranaire,PressionTransm,QHem154,TEXT
+RC89GY628cz,HEM154:Pression transmembranaire (H1),PressionTransm_H1,QHEM154_H1,TEXT
+zzLncgI91ND,HEM154:Pression transmembranaire (H2),PressionTransm_H2,QHEM154_H2,TEXT
+O9UniRVeWMo,HEM154:Pression transmembranaire (H3),PressionTransm_H3,QHEM154_H3,TEXT
+CHsfEH7TgPe,HEM154:Pression transmembranaire (H4),PressionTransm_H4,QHEM154_H4,TEXT
+ALOmRBczP0Z,HEM154:Pression transmembranaire (T0),PressionTransm_T0,QHEM154_T0,TEXT
+HuShy0jCBAy,HEM155:Sodium plastique,SodiumPlastique,QHem155,NUMBER
+wjVJL49V3QV,HEM155:Sodium plastique (H1),SodiumPlastique_H1,QHEM155_H1,NUMBER
+rAoeFMtjb94,HEM155:Sodium plastique (H2),SodiumPlastique_H2,QHEM155_H2,NUMBER
+rBQYi67GxIL,HEM155:Sodium plastique (H3),SodiumPlastique_H3,QHEM155_H3,NUMBER
+pwB505JuYxe,HEM155:Sodium plastique (H4),SodiumPlastique_H4,QHEM155_H4,NUMBER
+eVlXJHpNlxS,HEM155:Sodium plastique (T0),SodiumPlastique_T0,QHEM155_T0,NUMBER
+hxIIhl72QoE,HEM156:Tension artérielle,TensionArt,Q156,TEXT
+CtFRmJik5Xr,HEM157:Pouls,Pouls,QHem157,NUMBER
+AIL8EsdzMeH,HEM157:Pouls (H1),Pouls_H1,QHEM157_H1,NUMBER
+kbsPVg0zXCk,HEM157:Pouls (H2),Pouls_H2,QHEM157_H2,NUMBER
+BBcznc8n546,HEM157:Pouls (H3),Pouls_H3,QHEM157_H3,NUMBER
+rgxSVWP8hup,HEM157:Pouls (H4),Pouls_H4,QHEM157_H4,NUMBER
+lA2nOvcTQQo,HEM157:Pouls (T0),Pouls_T0,QHEM157_T0,NUMBER
+cbIcAwZnqyo,HEM158:Température,Temperature,QHem158,NUMBER
+uL5i9L7bZlQ,HEM159:Transfusion,Transfusion,QHem159,TEXT
+UU9qN86CP6b,HEM159:Transfusion (H1),Transfusion_H1,QHEM159_H1,TEXT
+Ea28dTtDnJn,HEM159:Transfusion (H2),Transfusion_H2,QHEM159_H2,TEXT
+EWxfy79rNXE,HEM159:Transfusion (H3),Transfusion_H3,QHEM159_H3,TEXT
+PzzUIKqCSOE,HEM159:Transfusion (H4),Transfusion_H4,QHEM159_H4,TEXT
+gZOn1UTNok5,HEM159:Transfusion (T0),Transfusion_T0,QHEM159_T0,TEXT
+oLlAjIS5DWW,"HEM160:Si oui, nombre de culots",NbCulots,QHem160,NUMBER
+IybMTfdNyZn,HEM161:Érythropoïétine,Erythropoietine,QHem161,TEXT
+RSA92hoVNKL,HEM162:Fer IV,FerIV,QHem162,TEXT
+XaWAPlV1tSG,HEM163:Antibiotiques,Antibiotiques,QHem163,TEXT
+XnUcTVDMlom,HEM164:Autres médicaments,AutresMedicaments,QHem164,TEXT
+sg77SI56Dvg,HEM165:Traitements administrés,TraitementsAdm,QHem165,TEXT
+dnhUTQAdQ6T,HEM166:Observations et Incidents,ObservationsIncidents,Q166,TEXT
+HxKSj3f2JG0,HEM167:Remarques,Remarques,QHem167,TEXT
+YW1BHkCvC36,HEM168:Infirmier (Débranchement),InfDebranchement,QHem168,TEXT
+OChDrvdlegR,HEM169:Tx Hémoglobine,TxHemoglobine,QHem169,NUMBER
+SOOn7XG6R7v,HEM170:Date de réalisation,DateRealisation,QHem170,DATE
+YDeyYkNoodO,HEM171:Abord vasculaire,AbordVasculaire,QHem171,TEXT
+su6IcL1XxCd,HEM172:Type d'AV,TypeAV,QHem172,TEXT
+bDl2earCSNQ,HEM173:Date de 1ère Ponction,DatePremierePonction,Q173,DATE
+lfiMRgriWMn,HEM174:Complications,Complications,Q174,TEXT
+cmhmCwnzOsL,HIV018: Date of HIV diagnosis,HIV_DiagnosisDate,Q018,DATE
+wbYqJ31XaTl,HIV019: Circumstances of HIV testing,HIV_TestCircumstances,Q019,TEXT
+qpFUCrCgGe6,"HIV020: If other circumstance of testing, specify",HIV_TestCircumstancesOther,Q020,TEXT
+l52cSEhnNm5,HIV021: HIV type,HIV_Type,Q021,TEXT
+RRGebXtWN5b,HIV022: HIV-1 subtype,HIV_HIV1Subtype,Q022,TEXT
+pGvocseGG0z,HIV023: HIV-related symptoms during the last 12 months,HIV_SymptomsLast12Months,Q023,TEXT
+aNbksezEhzM,"HIV024: If HIV-related symptoms, specify",HIV_SymptomsDetails,Q024,TEXT
+wvvchZlTRk9,HIV025: Past opportunistic infections,HIV_PastOIs,Q025,TEXT
+CHIZJGh1Sgp,"HIV026: If past opportunistic infections, specify",HIV_PastOIsDetails,Q026,TEXT
+Km4pAZxTUhC,HIV027: Past co-morbidities (other than HIV),HIV_PastComorbidities,Q027,TEXT
+POpddHXw4E2,"HIV028: Investigations done in the past (e.g. X-ray, CT scan, etc.)",HIV_PastInvestigations,Q028,TEXT
+ZvUNRPCXeh1,HIV131: Patient surname and first name,HIV_PatientFullName,Q131,TEXT
+UIq3rbj28iA,HIV132: File code / Unique patient number,HIV_FileCodeUniqueNumber,Q132,TEXT
+OtBmFHygFKg,HIV133: Date of visit,HIV_VisitDate,Q133,DATE
+cwMXyWkv50h,HIV134: Date of next appointment,HIV_NextAppointmentDate,Q134,DATE
+Y3FVYOsNEQ2,HIV135: Additional follow-up dates (questionnaire),HIV_AdditionalFollowUpDates,Q135,TEXT
+l9NQhvQmS5x,HIV137: Weight (kg),HIV_WeightKg,Q137,NUMBER
+Htpj0N8nbKJ,HIV138: Temperature (°C),HIV_TemperatureC,Q138,NUMBER
+Nk8moCh5g0P,HIV140: Waist circumference (cm),HIV_WaistCircumferenceCm,Q140,NUMBER
+E6h9mTyYDsl,HIV141: Hip circumference (cm),HIV_HipCircumferenceCm,Q141,NUMBER
+IkDXPHoyGMR,HIV142: Pregnancy,HIV_Pregnancy,Q142,TEXT
+Fk0GMtg2Hdv,HIV143: Biology at this visit (summary),HIV_BiologySummaryFU,Q143,TEXT
+P6l8O0c3S8L,HIV145: ASAT / ALAT,HIV_ASAT_ALAT,Q145,TEXT
+exGuX42Hy1Y,HIV146: Blood glucose,HIV_BloodGlucose,Q146,TEXT
+W8lEggWqCmy,HIV147: Creatinine,HIV_Creatinine,Q147,TEXT
+N5w6P5n76xP,HIV148: CD4 count,HIV_CD4Count,Q148,NUMBER
+gJ033QMYJBw,HIV149: Viral load,HIV_ViralLoad,Q149,NUMBER
+Sn1BEZrqT7U,HIV151: Fever > 2 weeks,HIV_TBScreenFever2w,Q151,TEXT
+VFmpYZis3Xk,HIV152: Cough > 2 weeks,HIV_TBScreenCough2w,Q152,TEXT
+LsqWztWoYub,HIV153: Malnutrition,HIV_TBScreenMalnutrition,Q153,TEXT
+stddHjOm2vj,HIV154: History of contact with TB case,HIV_TBScreenContact,Q154,TEXT
+v4owqW3vRtg,HIV155: Night sweats,HIV_TBScreenNightSweats,Q155,TEXT
+CIVhX9Ci69Z,HIV157: Cotrimoxazole prophylaxis,HIV_CotrimoxazoleProphylaxis,Q157,TEXT
+Cs22cpaxh7a,HIV158: Fluconazole prophylaxis,HIV_FluconazoleProphylaxis,Q158,TEXT
+F7mvA3enoWr,HIV159: INH prophylaxis,HIV_INHProphylaxis,Q159,TEXT
+ecNjE2r0omC,HIV160: Anti-TB treatment (if any),HIV_AntiTBTreatment,Q160,TEXT
+RBotUDIVWQO,HIV161: Treatment for oral candidiasis (e.g. nystatin),HIV_OralCandidiasisTreatment,Q161,TEXT
+qw1ugCyngWh,HIV162: ARV regimen prescribed at this visit,HIV_ARVRegimenPrescribed,Q162,TEXT
+rFCb9isTxtQ,HIV163: ARV regimen dispensed at pharmacy,HIV_ARVRegimenDispensed,Q163,TEXT
+B3FmhbwoVPb,HIV164: Any hospitalization since last visit?,HIV_HospitalizedSinceLastVisit,Q164,TEXT
+On3kzQweZF5,"HIV165: In last 4 days, how many times forgot to take ART?",HIV_ARTForgotTimes4Days,Q165,TEXT
+L7BPJXinR95,HIV167: Overall adherence (questionnaire categories),HIV_OverallAdherence,Q167,TEXT
+HcZ4FRUqkcS,HIV168: ARVs collected on time from pharmacy?,HIV_ARVsCollectedOnTime,Q168,TEXT
+FFlui2pzFWj,HIV169: Scheduled appointments respected?,HIV_AppointmentsRespected,Q169,TEXT
+pLVqjyzxaPA,HIV170: Has the ART regimen been modified?,HIV_ARTRegimenModified,Q170,TEXT
+L0susEwSRcV,HIV171: Reason for treatment modification,HIV_ARTModificationReason,Q171,TEXT
+xjORuRkNVrL,HIV172: Additional details on reasons for treatment modification,HIV_ModificationReasonDetails,Q172,TEXT
+ngyfkYrlA27,"HIV175: If treatment failure, specify type",HIV_TreatmentFailureType,Q175,TEXT
+OR1O34tzimP,HIV176: Comments,HIV_Comments,Q176,LONG_TEXT
+xvbAkPGCGCO,HIV177: Opportunistic infection since last visit: Pulmonary tuberculosis,HIV_OI_PulmonaryTB,Q177,TEXT
+IUwjt0Phb9L,HIV178: Opportunistic infection since last visit: Herpes zoster (zona),HIV_OI_HerpesZoster,Q178,TEXT
+aZCVkGdN2IC,HIV179: Opportunistic infection since last visit: Extrapulmonary tuberculosis,HIV_OI_ExtraPulmonaryTB,Q179,TEXT
+gNdP3h8s9OA,HIV180: Opportunistic infection since last visit: CMV retinitis,HIV_OI_CMVRetinitis,Q180,TEXT
+Jv1whmRcC39,HIV181: Opportunistic infection since last visit: Kaposi sarcoma,HIV_OI_KaposiSarcoma,Q181,TEXT
+M89MNQ29H4O,HIV182: Opportunistic infection since last visit: Herpes simplex infection,HIV_OI_HerpesSimplex,Q182,TEXT
+AL4AGEyjoAz,HIV183: Opportunistic infection since last visit: Oesophageal candidiasis,HIV_OI_OesophagealCandidiasis,Q183,TEXT
+Oi42hI3ZGNM,HIV184: Opportunistic infection since last visit: Isosporiasis,HIV_OI_Isosporiasis,Q184,TEXT
+zUTym2Kl9a8,HIV185: Opportunistic infection since last visit: Cerebral toxoplasmosis,HIV_OI_CerebralToxo,Q185,TEXT
+yyi9DdIs9uV,HIV186: Opportunistic infection since last visit: Cryptococcal meningitis / neuro-meningeal cryptococcosis,HIV_OI_CryptococcalMeningitis,Q186,TEXT
+ZgvHxA8L1W5,HIV187: Opportunistic infection since last visit: Bacterial meningitis,HIV_OI_BacterialMeningitis,Q187,TEXT
+wWEh6yHe77b,HIV188: Other opportunistic infection (text),HIV_OI_OtherText,Q188,TEXT
+ZG6YFY91nXW,HIV189: Other opportunistic infections and date of diagnosis,HIV_OI_OtherWithDate,Q189,TEXT
+e7wtt67bpUl,HIV190: Is patient dead?,HIV_IsPatientDead,Q190,TEXT
+ouXgExmf5ee,HIV191: Date of death (if applicable) – questionnaire,HIV_DateOfDeath,Q191,DATE
+oLo5FuRmaOH,HIVNew029: Date of HIV diagnosis,HIVNew_HIVDiagnosisDate,Q029,DATE
+ILZydv7Du3S,HIVNew030: Circumstances of testing,HIVNew_HIVTestCircumstances,Q030,TEXT
+uuBHFCVzxGP,"HIVNew031: If other circumstances, specify",HIVNew_HIVTestCircumOther,Q031,TEXT
+NWd408plrxT,HIVNew032: HIV type,HIVNew_HIVType,Q032,TEXT
+dHKO2ei204U,HIVNew033: HIV-1 subtype,HIVNew_HIV1Subtype,Q033,TEXT
+CU6rpiewWZb,HIVNew034: Opportunistic infections (ever),HIVNew_OIHistory,Q034,TEXT
+eJg46lSF9xH,"HIVNew035: If opportunistic infections, specify",HIVNew_OIHistorySpecify,Q035,TEXT
+sVLoub8QwmG,HIVNew036: Sexually transmitted infection (history),HIVNew_STIHistory,Q036,TEXT
+wIQ57zgnImf,HIVNew037: Tuberculosis (history),HIVNew_TBHistory,Q037,TEXT
+Du4baToWvQ7,"HIVNew038: If TB history, start date",HIVNew_TBHistoryStartDate,Q038,DATE
+Vr8zHBn5uE1,"HIVNew039: If TB history, end date of treatment",HIVNew_TBHistoryEndDate,Q039,DATE
+ryfTucda5lx,HIVNew040: Isoniazid (INH) chemoprophylaxis,HIVNew_INHChemoprophylaxis,Q040,TEXT
+eqfpjWg4WWj,HIVNew041: Diabetes (history),HIVNew_DiabetesHistory,Q041,TEXT
+ZQyVjMBkx8C,HIVNew042: Hypertension (history),HIVNew_HypertensionHistory,Q042,TEXT
+tRB2hHwgA1J,HIVNew043: Cardiovascular disease (history),HIVNew_CardioDiseaseHistory,Q043,TEXT
+XpjploAxZMD,HIVNew044: Renal disease (history),HIVNew_RenalDiseaseHistory,Q044,TEXT
+Zugjfxh5bSd,HIVNew045: Viral hepatitis,HIVNew_ViralHepatitis,Q045,TEXT
+icXFYpAyIPD,HIVNew046: Other chronic diseases,HIVNew_OtherChronicDiseases,Q046,TEXT
+d6N8A5d7Q9U,"HIVNew047: If other chronic diseases, specify",HIVNew_OtherChronicDiseasesSpecify,Q047,TEXT
+d92X8lA83AK,HIVNew048: Alcohol use (clinical file),HIVNew_AlcoholUseClinical,Q048,TEXT
+n9RvN2BHJA7,"HIVNew049: If alcohol use, type of alcohol",HIVNew_AlcoholType,Q049,TEXT
+x0eBL9r1MAH,HIVNew050: Alcohol status (questionnaire),HIVNew_AlcoholStatusQuestionnaire,Q050,TEXT
+MH6EdQSBMBI,HIVNew051: Frequency of alcohol consumption,HIVNew_AlcoholFrequency,Q051,TEXT
+pSswtdDLoV3,HIVNew052: Tobacco use (smoking),HIVNew_TobaccoUseSmoking,Q052,TEXT
+UFUaZNAuJ0J,HIVNew053: Smoking status (questionnaire),HIVNew_SmokingStatusQuestionnaire,Q053,TEXT
+KXXHcFyrp3b,HIVNew054: Other drugs,HIVNew_OtherDrugs,Q054,TEXT
+EQncIamOlcr,HIVNew055: Past ARV treatment (any history),HIVNew_PastARTreatmentHistory,Q055,TEXT
+C8S14tiUkZT,HIVNew056: If previous ARV treatment: start date,HIVNew_PrevARTStartDate,Q056,DATE
+jSTlpkRkBuQ,HIVNew057: If previous ARV treatment: end date (if applicable),HIVNew_PrevARTEndDate,Q057,DATE
+Pzo5QaVMJLL,HIVNew058: ART initiation date (questionnaire),HIVNew_ARTInitiationDate,Q058,DATE
+KRzGV7pIsNu,HIVNew059: Health facility providing ART,HIVNew_HealthFacilityProvidingART,Q059,TEXT
+IrslLAeYvsw,HIVNew060: Circumstances of previous ART treatment,HIVNew_PrevARTCircumstances,Q060,TEXT
+Dkub4pJK0pY,HIVNew061: Current ARV regimen prescribed,HIVNew_CurrentARVRegimenPrescribed,Q061,TEXT
+l0Snin1WAq0,HIVNew062: Is treatment currently ongoing?,HIVNew_TreatmentOngoing,Q062,TEXT
+E8vEmdGjxg5,HIVNew063: Cotrimoxazole prophylaxis currently in place,HIVNew_CotrimoxazoleCurrent,Q063,TEXT
+DRkbh0fpVvO,HIVNew064: Drug allergy,HIVNew_DrugAllergy,Q064,TEXT
+AsLKlng6Cfj,"HIVNew065: If drug allergy, specify",HIVNew_DrugAllergySpecify,Q065,TEXT
+kNPVsosqwkh,HIVNew066: Gravidity/Parity (Gx Py a b c),HIVNew_GravidityParity,Q066,TEXT
+y5kOc3zpwXz,HIVNew067: Date of last menstrual period (LMP),HIVNew_LMPDate,Q067,DATE
+sLW1EZO3nTg,HIVNew068: Current pregnancy (women-specific),HIVNew_CurrentPregnancyWomen,Q068,TEXT
+hYjMDKoZOVE,HIVNew069: Menstrual status,HIVNew_MenstrualStatus,Q069,TEXT
+VxG9NYBx0cB,HIVNew070: Height (cm),HIVNew_HeightCm,Q070,NUMBER
+EQjCOUn8Wjn,HIVNew071: Waist circumference (cm),HIVNew_WaistCircumferenceCm,Q071,NUMBER
+cSpvZXu2EoH,HIVNew072: Hip circumference (cm),HIVNew_HipCircumferenceCm,Q072,NUMBER
+aimVP4UpZjD,HIVNew073: Temperature (°C),HIVNew_TemperatureC,Q073,NUMBER
+L6jwj5BvCGn,HIVNew074: Pulse,HIVNew_Pulse,Q074,NUMBER
+lSa8iLTDSqC,HIVNew075: Blood pressure (mmHg),HIVNew_BloodPressure,Q075,TEXT
+TAL0mS0yNBx,HIVNew076: General condition,HIVNew_GeneralCondition,Q076,TEXT
+EkGx8BrvZAn,HIVNew077: Skin,HIVNew_SkinExam,Q077,LONG_TEXT
+rxMaPDfvJ4Z,HIVNew078: Lymph node areas,HIVNew_LymphNodeAreas,Q078,LONG_TEXT
+VfJCLDAntJC,HIVNew079: Chest examination,HIVNew_ChestExam,Q079,LONG_TEXT
+GdRSXsOv0si,HIVNew080: Cardiovascular examination,HIVNew_CardioExam,Q080,LONG_TEXT
+v8mTUGHKkTz,HIVNew081: Abdominal / digestive examination,HIVNew_AbdominalExam,Q081,LONG_TEXT
+gTB7a2bota6,HIVNew082: Urogenital examination,HIVNew_UrogenitalExam,Q082,LONG_TEXT
+xEmOz58qH2z,HIVNew083: Neurological examination,HIVNew_NeuroExam,Q083,LONG_TEXT
+IzxmZSD7uAB,HIVNew084: Musculoskeletal examination,HIVNew_MSKExam,Q084,LONG_TEXT
+uoOoKjxykzR,HIVNew085: Psychiatric examination,HIVNew_PsychExam,Q085,LONG_TEXT
+rrvlWGY782s,HIVNew086: TB symptoms: Fever > 2 weeks,HIVNew_TBsymFever2w,Q086,TEXT
+QoZp9OrSOM0,HIVNew087: TB symptoms: Cough > 2 weeks,HIVNew_TBsymCough2w,Q087,TEXT
+oQSOC8N1o3p,HIVNew088: TB symptoms: Malnutrition,HIVNew_TBsymMalnutrition,Q088,TEXT
+qhvegeO3TyK,HIVNew089: TB symptoms: History of contact with TB case,HIVNew_TBsymContact,Q089,TEXT
+NwJtqv5uk4k,HIVNew090: TB symptoms: Night sweats,HIVNew_TBsymNightSweats,Q090,TEXT
+M51WcViECNo,HIVNew091: Clinical diagnosis at this visit,HIVNew_ClinicalDiagnosisThisVisit,Q091,TEXT
+MwSUTpi7PFV,HIVNew092: WHO clinical stage,HIVNew_WHOClinicalStage,Q092,TEXT
+nVWMWlW5CYt,HIVNew093: Element used to determine WHO stage,HIVNew_WHOStageElementUsed,Q093,TEXT
+OIwDsiJdDoH,HIVNew094: CD4 absolute count – baseline (cells/mm3),HIVNew_CD4BaselineValue,Q094,NUMBER
+AAHCD7xhLWu,HIVNew095: CD4 absolute count – baseline date,HIVNew_CD4BaselineDate,Q095,DATE
+j3W8PniXBkm,HIVNew096: CD4 absolute count – follow-up (cells/mm3),HIVNew_CD4FollowupValue,Q096,NUMBER
+XafzGIX6T2c,HIVNew097: CD4 absolute count – follow-up date,HIVNew_CD4FollowupDate,Q097,DATE
+Jz0xkB8X8sE,HIVNew098: HIV viral load – baseline (copies/mL),HIVNew_ViralLoadBaselineValue,Q098,NUMBER
+kOUqGBErGNZ,HIVNew099: HIV viral load – baseline date,HIVNew_ViralLoadBaselineDate,Q099,DATE
+El06BmYkTbt,HIVNew100: HIV viral load – follow-up (copies/mL),HIVNew_ViralLoadFollowupValue,Q100,NUMBER
+kM7qP7zNZMv,HIVNew101: HIV viral load – follow-up date,HIVNew_ViralLoadFollowupDate,Q101,DATE
+iiMr56xtukR,HIVNew102: Full blood count (CBC),HIVNew_CBCText,Q102,TEXT
+T9DcpIoTc9Y,HIVNew103: Neutrophil count,HIVNew_NeutrophilCount,Q103,TEXT
+fWFQBt0pHlf,HIVNew104: Total lymphocyte count,HIVNew_TotalLymphocyteCount,Q104,TEXT
+zQFs0XSrkX1,HIVNew105: Haemoglobin,HIVNew_Haemoglobin,Q105,TEXT
+SCFdRxW4nN0,HIVNew106: Platelet count,HIVNew_PlateletCount,Q106,TEXT
+vCdP1dVuCjd,HIVNew107: Triglycerides,HIVNew_Triglycerides,Q107,TEXT
+fcdVN0hU42g,HIVNew108: Total cholesterol,HIVNew_TotalCholesterol,Q108,TEXT
+CrDfpHV6Jo2,HIVNew109: Fasting blood glucose,HIVNew_FastingBloodGlucose,Q109,TEXT
+ZHmFY5Nqlin,HIVNew110: Serum amylase,HIVNew_SerumAmylase,Q110,TEXT
+wzB6PWVRDQG,HIVNew111: HBeAg,HIVNew_HBeAg,Q111,TEXT
+ytbUOBAJFCZ,HIVNew112: Anti-HBe,HIVNew_AntiHBe,Q112,TEXT
+D2wHwcaht6c,HIVNew113: HBc antigen,HIVNew_HBcAntigen,Q113,TEXT
+MXK4eChTzWl,HIVNew114: Anti-HBc,HIVNew_AntiHBc,Q114,TEXT
+uYl2pLhsDyz,HIVNew115: Delta antigen,HIVNew_DeltaAntigen,Q115,TEXT
+TAEMg1in9yL,HIVNew116: Anti-delta,HIVNew_AntiDelta,Q116,TEXT
+bp4YF8iZabO,HIVNew117: Hepatitis C antibodies (anti-HCV),HIVNew_AntiHCV,Q117,TEXT
+gQret3jjqHl,HIVNew118: Urine dipstick – proteinuria,HIVNew_UrineProteinuria,Q118,TEXT
+K48XlcfeINp,HIVNew119: Urine dipstick – glycosuria,HIVNew_UrineGlycosuria,Q119,TEXT
+P723cBq8LnG,HIVNew120: HIV drug resistance genotyping (resistant molecules),HIVNew_HIVDrugResistanceGenotype,Q120,LONG_TEXT
+WYzpGErw3Pn,HIVnew121: ARV prescription at this visit,HIVnew_ARVPrescriptionAtVisit,Q121,TEXT
+f5vlQ5PAwlO,HIVnew122: ARV regimen (protocol) prescribed,HIVnew_ARVRegimenProtocolPrescribed,Q122,TEXT
+hPYgnWjkNKJ,HIVnew123: Therapeutic line,HIVnew_TherapeuticLine,Q123,TEXT
+kWZUXk08uBs,HIVnew124: Intended duration of ARV prescription,HIVnew_ARVPrescriptionDuration,Q124,TEXT
+yVQcTvWfdwW,HIVnew125: Regimen actually dispensed at pharmacy (if different),HIVnew_ARVRegimenDispensed,Q125,TEXT
+r8GO5pfhNqT,HIVnew126: Cotrimoxazole prophylaxis,HIVnew_CotrimoxazoleProphylaxis,Q126,TEXT
+IVWI98zFNZE,HIVnew127: Tuberculosis prophylaxis,HIVnew_TuberculosisProphylaxis,Q127,TEXT
+PQKnTrrHm1O,HIVnew128: Current TB treatment,HIVnew_CurrentTBTreatment,Q128,TEXT
+h2dvOcOdeox,"HIVnew129: If current TB treatment, specify regimen",HIVnew_CurrentTBRegimenSpecify,Q129,TEXT
+YoIdXNIq4NY,HIVnew130: Date of next scheduled medical visit,HIVnew_NextScheduledVisitDate,Q130_DATE_NEXT_VISIT,DATE
+y3fPDqK9pHS,HIVnew130: Other treatments (non-ARV),HIVnew_OtherTreatmentsNonARV,Q130,LONG_TEXT
+DVIGMUAhxBu,TB_AFB_collection,TB_AFB_collection,TB_AFB_collection,TEXT
+Cp1uMGE13Vs,TB_ALAT_SGPT,TB_ALAT_SGPT,TB_ALAT_SGPT,NUMBER
+Co5LQ33cwxK,TB_Alcohol_consumption,TB_Alcohol_consumption,TB_Alcohol_consumption,TEXT
+mhPFJYjnaUl,TB_Anorexia,TB_Anorexia,TB_Anorexia,TEXT
+Nw8Uw4baJ9L,TB_Appearance_of_ascites_fluid,TB_Appearance_of_ascites_fluid,TB_Appearance_of_ascites_fluid,TEXT
+Ofn3VLu6AI9,TB_Appearance_of_the_cerebrospinal_fluid,TB_Appearance_of_the_cerebrospinal_fluid,TB_Appearance_of_the_cerebrospinal_fluid,TEXT
+Cyhvc0thIgC,TB_ARV_treatment,TB_ARV_treatment,TB_ARV_treatment,TEXT
+fpkXK6TTxwH,TB_ASAT_SGOT,TB_ASAT_SGOT,TB_ASAT_SGOT,NUMBER
+Znmxh7FsX9e,TB_Ascites_leukocytes_mm3,TB_Ascites_leukocytes_mm3,TB_Ascites_leukocytes_mm3,NUMBER
+eamdGMuFE25,TB_Ascites_proteins_g_L,TB_Ascites_proteins_g_L,TB_Ascites_proteins_g_L,NUMBER
+I0WlpEToeAL,TB_Ascitic_fluid_analysis,TB_Ascitic_fluid_analysis,TB_Ascitic_fluid_analysis,TEXT
+gS937sikgcs,TB_Asthenia,TB_Asthenia,TB_Asthenia,TEXT
+MN1aqKXqfyx,TB_Basophils,TB_Basophils,TB_Basophils,NUMBER
+QcpIpHCqQAW,TB_CD4_count,TB_CD4_count,TB_CD4_count,NUMBER
+XNmSjD3dsvj,TB_Chest_pain,TB_Chest_pain,TB_Chest_pain,TEXT
+kvcT7JfqEUo,TB_Chronic_kidney_disease,TB_Chronic_kidney_disease,TB_Chronic_kidney_disease,TEXT
+D5x0MCfO0ow,TB_clinical_category,TB_clinical_category,TB_clinical_category,TEXT
+iT2eqxtlq3m,TB_Consumption_of_other_drugs,TB_Consumption_of_other_drugs,TB_Consumption_of_other_drugs,TEXT
+xxeTYppJCYa,TB_Cough,TB_Cough,TB_Cough,TEXT
+ga9jXgB3vY6,TB_Creatinine,TB_Creatinine,TB_Creatinine,NUMBER
+g405m3rpWkw,TB_CRP,TB_CRP,TB_CRP,NUMBER
+F7RL9hPxqiU,TB_CSF_chlorine,TB_CSF_chlorine,TB_CSF_chlorine,TEXT
+Is6VoWmO6V8,TB_CSF_leukocytes_mm3,TB_CSF_leukocytes_mm3,TB_CSF_leukocytes_mm3,NUMBER
+LeAqemOKpaq,TB_CSF_lymphocytes,TB_CSF_lymphocytes,TB_CSF_lymphocytes,TEXT
+q8rkciMYBvH,TB_CSF_proteins,TB_CSF_proteins,TB_CSF_proteins,TEXT
+ikz6Nh67Cmz,TB_Current_weight,TB_Current_weight,TB_Current_weight,NUMBER
+Ob7KF51KCSR,TB_Diabetes,TB_Diabetes,TB_Diabetes,TEXT
+n9dGmm1lOeu,TB_Dyspnea,TB_Dyspnea,TB_Dyspnea,TEXT
+zXrF62PhVsq,TB_Eosinophils,TB_Eosinophils,TB_Eosinophils,NUMBER
+qKSk3q7UEih,TB_expectoration,TB_expectoration,TB_expectoration,TEXT
+pZmNnGeqt4c,TB_Fever,TB_Fever,TB_Fever,TEXT
+a7iwiOO18te,TB_glucorrhachia,TB_glucorrhachia,TB_glucorrhachia,TEXT
+UZL5WtBSBm1,TB_Hemoglobin,TB_Hemoglobin,TB_Hemoglobin,NUMBER
+EwvTJcIVJ2Y,TB_hemoptysis,TB_hemoptysis,TB_hemoptysis,TEXT
+OIhpmlFfq7a,TB_Hepatitis_serology,TB_Hepatitis_serology,TB_Hepatitis_serology,TEXT
+XNlOea2lmtd,TB_History_of_tuberculosis,TB_History_of_tuberculosis,TB_History_of_tuberculosis,TEXT
+KIerQpfHKtF,TB_HIV_status,TB_HIV_status,TB_HIV_status,TEXT
+CiBjFDV48DI,TB_HT,TB_HT,TB_HT,TEXT
+RFpsWZwUE2M,TB_Immunosuppressive_treatment,TB_Immunosuppressive_treatment,TB_Immunosuppressive_treatment,TEXT
+q4qgQgz6NWf,TB_leukocytes,TB_leukocytes,TB_leukocytes,NUMBER
+bDWN1Oxo0jT,TB_location,TB_location,TB_location,TEXT
+hvV2VOZPDIj,TB_location_1,TB_location_1,TB_location_1,TEXT
+yFnpc5UWIrB,TB_lymphocytes,TB_lymphocytes,TB_lymphocytes,NUMBER
+vyGdIvSFKKo,TB_Lymphocytes_ascites,TB_Lymphocytes_ascites,TB_Lymphocytes_ascites,NUMBER
+hfRWreLiH6y,TB_Macroscopic_appearance_of_pleural_fluid,TB_Macroscopic_appearance_of_pleural_fluid,TB_Macroscopic_appearance_of_pleural_fluid,TEXT
+F1DNS60U6ob,TB_Marital_status,TB_Marital_status,TB_Marital_status,TEXT
+FrsTPlAW30w,TB_Monocytes,TB_Monocytes,TB_Monocytes,NUMBER
+yvuk7lgzV03,TB_Neuromeningeal,TB_Neuromeningeal,TB_Neuromeningeal,TEXT
+HMyML0rwwTi,TB_neutrophils,TB_neutrophils,TB_neutrophils,NUMBER
+r1QQrYxPPdn,TB_Nocturnal_excessive_sweating,TB_Nocturnal_excessive_sweating,TB_Nocturnal_excessive_sweating,TEXT
+O5Lai8IhHIK,TB_number_of_sites_reached,TB_number_of_sites_reached,TB_number_of_sites_reached,NUMBER
+eCryPTNp4Ib,TB_Occupation,TB_Occupation,TB_Occupation,TEXT
+DNSIuvzyb3k,TB_other_levies,TB_other_levies,TB_other_levies,TEXT
+BSndmOYpJub,TB_Other_locations,TB_Other_locations,TB_Other_locations,TEXT
+FYPlhdEkm09,TB_Other_locations_1,TB_Other_locations_1,TB_Other_locations_1,TEXT
+aIHdGDZofsx,TB_Others,TB_Others,TB_Others,TEXT
+szNPgcH7WFm,TB_pads,TB_pads,TB_pads,NUMBER
+EF4ezSKL5QZ,TB_patient_age_years_at_Dg_of_TB,TB_patient_age_years_at_Dg_of_TB,TB_patient_age_years_at_Dg_of_TB,NUMBER
+ETSXM7rnn62,TB_PCR_sampling_site,TB_PCR_sampling_site,TB_PCR_sampling_site,TEXT
+inl6uLzpHwg,TB_Pericardial,TB_Pericardial,TB_Pericardial,TEXT
+SBOcNcCcr8k,TB_Peripheral_lymph_node,TB_Peripheral_lymph_node,TB_Peripheral_lymph_node,TEXT
+ztKTmdhUbvx,TB_Peritoneal,TB_Peritoneal,TB_Peritoneal,TEXT
+w73AEfqHYha,TB_pleural_leukocytes_mm3,TB_pleural_leukocytes_mm3,TB_pleural_leukocytes_mm3,NUMBER
+j8Hi8R6l1Xx,TB_Pleural_lymphocytes,TB_Pleural_lymphocytes,TB_Pleural_lymphocytes,NUMBER
+HRHpZzpOKeE,TB_pleural_proteins_g_L,TB_pleural_proteins_g_L,TB_pleural_proteins_g_L,NUMBER
+U83DFjQEDWY,TB_Pleural_puncture,TB_Pleural_puncture,TB_Pleural_puncture,TEXT
+IQNCcIL3RG2,TB_Pleural_TB,TB_Pleural_TB,TB_Pleural_TB,TEXT
+GeyJ2mHhppf,TB_Pott_s_disease,TB_Pott_s_disease,TB_Pott_s_disease,TEXT
+BxY3a6ZmViW,TB_Preventative_cotrimoxazole,TB_Preventative_cotrimoxazole,TB_Preventative_cotrimoxazole,TEXT
+E6kjKIvFZA1,TB_Residence,TB_Residence,TB_Residence,TEXT
+DNW7AWJl540,TB_Search_for_AFB,TB_Search_for_AFB,TB_Search_for_AFB,TEXT
+BkzmrLHqv9T,TB_sex,TB_sex,TB_sex,TEXT
+RKUHi463SYi,TB_SPITTING_at_the_end_of_the_2nd_month,TB_SPITTING_at_the_end_of_the_2nd_month,TB_SPITTING_at_the_end_of_the_2nd_month,TEXT
+fYr5TI2C9T8,TB_Sputum_at_the_end_of_the_3rd_month,TB_Sputum_at_the_end_of_the_3rd_month,TB_Sputum_at_the_end_of_the_3rd_month,TEXT
+njZ6XDVnQtQ,TB_TB_v2_localization,TB_TB_v2_localization,TB_TB_v2_localization,TEXT
+t6HY4m8l6rx,TB_TB_v2_localization_1,TB_TB_v2_localization_1,TB_TB_v2_localization_1,TEXT
+w36OFVOO9FR,TB_TCMH,TB_TCMH,TB_TCMH,NUMBER
+ml5c5pudmRP,TB_Tobacco_consumption,TB_Tobacco_consumption,TB_Tobacco_consumption,TEXT
+Tv2kg6gE2pr,TB_To_specify,TB_To_specify,TB_To_specify,TEXT
+PC3CJKQGtf4,TB_Treatment_result,TB_Treatment_result,TB_Treatment_result,TEXT
+wKHXbiEZ7EC,TB_Urea,TB_Urea,TB_Urea,NUMBER
+M5oWSeXINbx,TB_VGM,TB_VGM,TB_VGM,NUMBER
+KxgCkwBHvWa,TB_VS,TB_VS,TB_VS,NUMBER
+R7W4FznQZoQ,TB_Weight_loss,TB_Weight_loss,TB_Weight_loss,TEXT
+DkdeDcOMpjy,TB_Year_of_treatment_start,TB_Year_of_treatment_start,TB_Year_of_treatment_start,NUMBER

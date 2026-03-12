@@ -1,0 +1,24 @@
+.content-wrapper, .main-sidebar, .main-header {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.small-box {
+  border-radius: 12px;
+}
+
+.box, .card {
+  border-radius: 12px !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+}
+
+.brand-link {
+  font-weight: 600;
+}
+
+.main-sidebar {
+  font-size: 16px;
+}
+
+.content-header h1, .card-title {
+  font-weight: 600;
+}
